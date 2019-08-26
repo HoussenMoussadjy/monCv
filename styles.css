@@ -1,0 +1,32 @@
+.img {
+    width: 175px;
+    height: 168px;
+}
+
+.mrgn-1 {
+    margin-top: 2rem;
+}
+
+h1 {
+    font-size: 27px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h2, h3, .txt-undrlnd {
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 19px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+.no-li {
+    list-style-type: none;
+}
