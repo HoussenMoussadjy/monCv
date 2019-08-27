@@ -1,10 +1,18 @@
 .container {
-    background-color: rgba(155, 83, 19, 0.2);
+    background: linear-gradient(#25a77a, #3d95d7);
 }
 
-.img {
+.background {
+    background-color: #1f4b6e;
+    margin-top: 7rem;
+    padding-top: 4px;
+}
+
+.rounded-circle {
+    background: url("assets/DSC_0432.jpg") center;
+    background-size: cover;
     width: 190px;
-    height: 170px;
+    height: 190px;
     margin-bottom: 1rem;
 }
 
@@ -16,6 +24,10 @@
 .mrgn-middl {
     margin-top: 1.6rem;
     margin-bottom: 1.6rem;
+}
+
+.no-li {
+    list-style-type: none;
 }
 
 h1 {
@@ -31,20 +43,11 @@ h2, h3, .txt-undrlnd {
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 21px;
 }
 
 h4 {
-    font-size: 17px;
-}
-
-.no-li {
-    list-style-type: none;
-}
-
-.background {
-    background-color: #222222;
-    margin-top: 7rem;
+    font-size: 16px;
 }
 
 p, ul {
