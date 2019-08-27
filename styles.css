@@ -1,10 +1,21 @@
+.container {
+    background-color: rgba(155, 83, 19, 0.2);
+}
+
 .img {
     width: 175px;
-    height: 168px;
+    height: 160px;
+    margin-bottom: 1rem;
 }
 
 .mrgn-1 {
     margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.mrgn-middl {
+    margin-top: 1.6rem;
+    margin-bottom: 1.6rem;
 }
 
 h1 {
@@ -12,7 +23,7 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 25px;
 }
 
 h2, h3, .txt-undrlnd {
@@ -20,13 +31,22 @@ h2, h3, .txt-undrlnd {
 }
 
 h3 {
-    font-size: 19px;
+    font-size: 22px;
 }
 
 h4 {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .no-li {
     list-style-type: none;
+}
+
+.background {
+    background-color: #222222;
+    margin-top: 7rem;
+}
+
+p, ul {
+    font-size: 19px;
 }
