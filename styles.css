@@ -1,5 +1,5 @@
 .container {
-    background: linear-gradient(#249c72, #3377af);
+    background: linear-gradient(#248d66, #3377af);
     font-family: 'Livvic', sans-serif;
 }
 
@@ -15,7 +15,7 @@
     width: 182px;
     height: 182px;
     margin-bottom: 1rem;
-    box-shadow: 1px 1px 1px 1px #1f1f1f;
+    box-shadow: 1px 1px 1px 1px #f5f5f5;
 }
 
 .mrgn-1 {
@@ -62,4 +62,20 @@ p, ul {
 
 .border {
     padding-top: 0.8rem;
+}
+
+.col-mrgn {
+    margin-top: 2.7rem;
+    margin-left: 1.5rem;
+}
+
+.img {
+    max-width: 17px;
+    padding-right: 4px;
+    padding-bottom: 3px;
+}
+
+.fab {
+    color: #3377af;
+    padding-right: 4px;
 }
