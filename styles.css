@@ -12,9 +12,10 @@
 .rounded-circle {
     background: url("assets/DSC_0432.jpg") center;
     background-size: cover;
-    width: 190px;
-    height: 190px;
+    width: 182px;
+    height: 182px;
     margin-bottom: 1rem;
+    box-shadow: 1px 1px 1px 1px #1f1f1f;
 }
 
 .mrgn-1 {
@@ -53,4 +54,12 @@ h4 {
 
 p, ul {
     font-size: 19px;
+}
+
+.row-mrgn {
+    margin-left: 1.7rem;
+}
+
+.border {
+    padding-top: 0.8rem;
 }
