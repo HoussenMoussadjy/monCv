@@ -15,7 +15,7 @@
     width: 182px;
     height: 182px;
     margin-bottom: 1rem;
-    box-shadow: 1px 1px 1px 1px #262626;
+    box-shadow: 1px 1px 1px 1px #383838;
 }
 
 .mrgn-1 {
@@ -53,7 +53,7 @@ h4 {
     font-size: 16px;
 }
 
-p, ul {
+p, ul, span {
     font-size: 19px;
 }
 
@@ -66,12 +66,12 @@ p, ul {
 }
 
 .col-mrgn {
-    margin-top: 2.7rem;
-    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+    margin-left: 1.2rem;
 }
 
 .img {
-    max-width: 17px;
+    max-width: 23px;
     padding-right: 4px;
     padding-bottom: 3px;
 }
