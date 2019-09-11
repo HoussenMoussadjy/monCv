@@ -5,8 +5,6 @@
 
 .background {
     background-color: #1f4b6e;
-    margin-top: 4rem;
-    padding-top: 4px;
 }
 
 .rounded-circle {
@@ -14,69 +12,31 @@
     background-size: cover;
     width: 182px;
     height: 182px;
-    margin-bottom: 1rem;
     box-shadow: 1px 1px 1px 1px #383838;
-}
-
-.mrgn-1 {
-    margin-top: 2rem;
-    margin-bottom: 4rem;
-    padding-bottom: 1rem;
-}
-
-.mrgn-middl {
-    margin-top: 1.6rem;
-    margin-bottom: 1.6rem;
 }
 
 .no-li {
     list-style-type: none;
 }
 
-h1 {
-    font-size: 27px;
-}
+h1 {font-size: 27px;}
 
-h2 {
-    font-size: 25px;
-}
+h2 {font-size: 25px;}
+
+h3 {font-size: 21px;}
+
+h4 {font-size: 16px;}
 
 h2, h3, .txt-undrlnd {
     text-decoration: underline;
 }
 
-h3 {
-    font-size: 21px;
-}
-
-h4 {
-    font-size: 16px;
-}
-
-p, ul, span {
-    font-size: 19px;
-}
-
-.row-mrgn {
-    margin-left: 1.7rem;
-}
-
-.border {
-    padding-top: 0.8rem;
-}
-
-.col-mrgn {
-    margin-top: 0.5rem;
-    margin-left: 1.2rem;
-}
+p, ul, span {font-size: 19px;}
 
 .img {
-    max-width: 23px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    max-width: 17px;
 }
 
 .fab {
     color: #3377af;
-    padding-right: 4px;
 }
